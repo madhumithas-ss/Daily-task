@@ -1,0 +1,17 @@
+#include <stdio.h>
+
+int main() {
+    int marks1 = 85;
+    int marks2 = 90;
+    int marks3 = 78;
+    int marks4 = 92;
+    int marks5 = 88;
+
+    printf("Marks in Subject 1: %d\n", marks1);
+    printf("Marks in Subject 2: %d\n", marks2);
+    printf("Marks in Subject 3: %d\n", marks3);
+    printf("Marks in Subject 4: %d\n", marks4);
+    printf("Marks in Subject 5: %d\n", marks5);
+
+    return 0;
+}
